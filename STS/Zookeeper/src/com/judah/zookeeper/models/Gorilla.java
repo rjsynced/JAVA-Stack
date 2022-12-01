@@ -8,7 +8,6 @@ public class Gorilla extends Mammal{
 	
 	public Gorilla(int energyLevel) {
 		super.setEnergyLevel(energyLevel);
-		
 		// TODO Auto-generated constructor stub
 	}
 
