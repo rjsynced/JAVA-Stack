@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+.color-blue {
+	color: rgb(43, 120, 228);
+}

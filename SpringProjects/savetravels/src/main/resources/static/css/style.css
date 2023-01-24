@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.blue-text {
+	color: rgb(8, 83, 148);
+}
+
+.edit-text {
+	color: rgb(56, 118, 29);
+}
